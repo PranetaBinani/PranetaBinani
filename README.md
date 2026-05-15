@@ -67,16 +67,7 @@ A fun interactive game project focused on frontend logic, animations, and event 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranetaBinani&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranetaBinani&layout=compact&theme=tokyonight" />
-</p>
-
+ 
 ---
 
 ## 🌐 Connect With Me
