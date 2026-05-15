@@ -72,9 +72,8 @@ A fun interactive game project focused on frontend logic, animations, and event 
 
 ## 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- LeetCode: YOUR_LEETCODE
-- Codeforces: YOUR_CODEFORCES
+- LinkedIn:https://www.linkedin.com/in/praneta-binani/
+- 
 
 ---
 
